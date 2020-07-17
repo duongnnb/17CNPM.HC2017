@@ -1,0 +1,297 @@
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\ApplicationInsights.config
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\roslyn\csc.exe
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\roslyn\System.Collections.Immutable.dll
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\roslyn\vbc.exe
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\roslyn\VBCSCompiler.exe
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\roslyn\VBCSCompiler.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\CayGiaPha.dll.config
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\CayGiaPha.dll
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\CayGiaPha.pdb
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\Microsoft.AI.Web.dll
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\Microsoft.AI.WindowsServer.dll
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\Microsoft.ApplicationInsights.dll
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\Microsoft.Web.Infrastructure.dll
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\System.Web.Helpers.dll
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\System.Web.Mvc.dll
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\System.Web.Razor.dll
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.Deployment.dll
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.dll
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.Razor.dll
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\Microsoft.AI.Web.xml
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\Microsoft.AI.WindowsServer.xml
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\Microsoft.ApplicationInsights.xml
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\System.Web.Razor.xml
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.xml
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.Deployment.xml
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.Razor.xml
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\System.Web.Helpers.xml
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\System.Web.Mvc.xml
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\obj\Debug\CayGiaPha.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\obj\Debug\CayGiaPha.dll
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\obj\Debug\CayGiaPha.pdb
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\EntityFramework.dll
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\EntityFramework.SqlServer.dll
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\EntityFramework.xml
+c:\users\admin\documents\visual studio 2015\Projects\CayGiaPha\CayGiaPha\bin\EntityFramework.SqlServer.xml
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\ApplicationInsights.config
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\csc.exe
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\System.Collections.Immutable.dll
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\System.Reflection.Metadata.dll
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\vbc.exe
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\VBCSCompiler.exe
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\VBCSCompiler.exe.config
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\CayGiaPha.dll.config
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\CayGiaPha.dll
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\CayGiaPha.pdb
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\EntityFramework.dll
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\EntityFramework.SqlServer.dll
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.DependencyCollector.dll
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.Web.dll
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.WindowsServer.dll
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.ApplicationInsights.dll
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.Web.Infrastructure.dll
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Helpers.dll
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Mvc.dll
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Razor.dll
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.Deployment.dll
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.dll
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.Razor.dll
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\EntityFramework.xml
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\EntityFramework.SqlServer.xml
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.DependencyCollector.xml
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.Web.xml
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.WindowsServer.xml
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.ApplicationInsights.xml
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Razor.xml
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.xml
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.Deployment.xml
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.Razor.xml
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Helpers.xml
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Mvc.xml
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\obj\Debug\CayGiaPha.dll
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\obj\Debug\CayGiaPha.pdb
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\ApplicationInsights.config
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\csc.exe
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\System.Collections.Immutable.dll
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\System.Reflection.Metadata.dll
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\vbc.exe
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\VBCSCompiler.exe
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\VBCSCompiler.exe.config
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\CayGiaPha.dll.config
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\CayGiaPha.dll
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\CayGiaPha.pdb
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\EntityFramework.dll
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\EntityFramework.SqlServer.dll
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.DependencyCollector.dll
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.Web.dll
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.WindowsServer.dll
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.ApplicationInsights.dll
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.Web.Infrastructure.dll
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Helpers.dll
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Mvc.dll
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Razor.dll
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.Deployment.dll
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.dll
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.Razor.dll
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\EntityFramework.xml
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\EntityFramework.SqlServer.xml
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.DependencyCollector.xml
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.Web.xml
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.WindowsServer.xml
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.ApplicationInsights.xml
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Razor.xml
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.xml
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.Deployment.xml
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.Razor.xml
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Helpers.xml
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Mvc.xml
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\obj\Debug\CayGiaPha.csprojResolveAssemblyReference.cache
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\obj\Debug\CayGiaPha.dll
+D:\Public\CNPM\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\obj\Debug\CayGiaPha.pdb
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\ApplicationInsights.config
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\csc.exe
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\vbc.exe
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\CayGiaPha.dll.config
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\CayGiaPha.dll
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\CayGiaPha.pdb
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\EntityFramework.dll
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.Web.dll
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Helpers.dll
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Mvc.dll
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Razor.dll
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.dll
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.Razor.dll
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\EntityFramework.xml
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.Web.xml
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Razor.xml
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.xml
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.Razor.xml
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Helpers.xml
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Mvc.xml
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\obj\Debug\CayGiaPha.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\obj\Debug\CayGiaPha.dll
+C:\Users\Asus\Documents\GitHub\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\obj\Debug\CayGiaPha.pdb
+D:\Courses\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\obj\Debug\CayGiaPha.csprojResolveAssemblyReference.cache
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\ApplicationInsights.config
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\roslyn\csc.exe
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.CodeAnalysis.dll
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.CSharp.Core.targets
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.VisualBasic.Core.targets
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\roslyn\System.Collections.Immutable.dll
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\roslyn\System.Reflection.Metadata.dll
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\roslyn\vbc.exe
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\roslyn\VBCSCompiler.exe
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\roslyn\VBCSCompiler.exe.config
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\CayGiaPha.dll.config
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\CayGiaPha.dll
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\CayGiaPha.pdb
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\EntityFramework.dll
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\EntityFramework.SqlServer.dll
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.Agent.Intercept.dll
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.DependencyCollector.dll
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.PerfCounterCollector.dll
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.ServerTelemetryChannel.dll
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.Web.dll
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.WindowsServer.dll
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\Microsoft.ApplicationInsights.dll
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\System.Web.Helpers.dll
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\System.Web.Mvc.dll
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\System.Web.Razor.dll
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.Deployment.dll
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.dll
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.Razor.dll
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\EntityFramework.xml
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\EntityFramework.SqlServer.xml
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.DependencyCollector.xml
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.ServerTelemetryChannel.xml
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.Web.xml
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.WindowsServer.xml
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\Microsoft.ApplicationInsights.xml
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\System.Web.Razor.xml
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.xml
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.Deployment.xml
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.Razor.xml
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\System.Web.Helpers.xml
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\bin\System.Web.Mvc.xml
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\obj\Debug\CayGiaPha.dll
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\obj\Debug\CayGiaPha.pdb
+T:\HCDH Nam 1\NMCNPM\Cool\Source\CayGiaPha\CayGiaPha\obj\Debug\CayGiaPha.csprojResolveAssemblyReference.cache
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\ApplicationInsights.config
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\csc.exe
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\System.Collections.Immutable.dll
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\System.Reflection.Metadata.dll
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\vbc.exe
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\VBCSCompiler.exe
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\roslyn\VBCSCompiler.exe.config
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\CayGiaPha.dll.config
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\CayGiaPha.dll
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\CayGiaPha.pdb
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\EntityFramework.dll
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\EntityFramework.SqlServer.dll
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.DependencyCollector.dll
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.Web.dll
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.WindowsServer.dll
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.ApplicationInsights.dll
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.Web.Infrastructure.dll
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Helpers.dll
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Mvc.dll
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Razor.dll
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.Deployment.dll
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.dll
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.Razor.dll
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\EntityFramework.xml
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\EntityFramework.SqlServer.xml
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.DependencyCollector.xml
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.Web.xml
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.AI.WindowsServer.xml
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.ApplicationInsights.xml
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Razor.xml
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.xml
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.Deployment.xml
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Webpages.Razor.xml
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Helpers.xml
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\bin\System.Web.Mvc.xml
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\obj\Debug\CayGiaPha.dll
+D:\Courses\22022018\17CNPM.HC2017\Source\CayGiaPha\CayGiaPha\obj\Debug\CayGiaPha.pdb

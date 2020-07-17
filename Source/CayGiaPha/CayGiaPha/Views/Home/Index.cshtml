@@ -1,0 +1,176 @@
+﻿@using CayGiaPha.Helper
+@model Account
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout_2.cshtml";
+}
+<section id="featured">
+    <!-- start slider -->
+    <!-- Slider -->
+    <div id="nivo-slider">
+        <div class="nivo-slider">
+            <!-- Slide #1 image -->
+            <img src="~/assets/updatelayout/img/slides/nivo/bg-1.jpg" alt="" title="#caption-1" />
+            <!-- Slide #2 image -->
+            <img src="~/assets/updatelayout/img/slides/nivo/bg-2.jpg" alt="" title="#caption-2" />
+            <!-- Slide #3 image -->
+            <img src="~/assets/updatelayout/img/slides/nivo/bg-3.jpg" alt="" title="#caption-3" />
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="span12">
+                    <!-- Slide #1 caption -->
+                    <div class="nivo-caption" id="caption-1">
+                        <div>
+                            <h2>Cây có cội người có tông, lập gia phả lưu giữ tinh hoa dòng họ <strong></strong></h2>
+                            <p>
+                                Gia phả gìn giữ truyền thống quý báu gia đình, chứng tích gốc gác lịch sử dòng họ
+                            </p>
+                            @*<a href="#" class="btn btn-theme">Read More</a>*@
+                        </div>
+                    </div>
+                    <!-- Slide #2 caption -->
+                    <div class="nivo-caption" id="caption-2">
+                        <div>
+                            <h2>Gia phả - <strong>Khơi gợi đạo đức</strong></h2>
+                            <p>
+                                Nhắc con cháu sống sao cho xứng đáng với hào khí ông cha để lại.
+                            </p>
+                        </div>
+                    </div>
+                    <!-- Slide #3 caption -->
+                    <div class="nivo-caption" id="caption-3">
+                        <div>
+                            <h2>Gia phả -  <strong>Sản phẩm tinh hoa văn hóa ngàn đời</strong></h2>
+                            <p>
+                                Cái nôi lịch sử mà chỉ Việt Nam mới có.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="nivo-caption" id="caption-4">
+                        <div>
+                            <h2>Thiết kế gia phả,  <strong>xây dựng phả đồ</strong></h2>
+                            <p>
+                                làm sổ gia phả để chắp nối nguồn cội, nuôi dưỡng ước mơ, giữ gìn văn hóa dân tộc cho hôm nay và mai sau.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- end slider -->
+</section>
+<section class="callaction" style="background:#ffd7b">
+    <div class="container">
+        <div class="row">
+            <div class="span12">
+                <div class="big-cta">
+                    <div class="cta-text">
+                        <h3><span class="highlight"><strong>Thân thiết cùng gia đình</strong></span></h3>
+                    </div>
+                    <div class="cta floatright">
+                        @if (CurrentContext.IsLogged() == true)
+                        {
+                            <a class="btn btn-large btn-theme btn-rounded" href="@Url.Action("Index", "CGP")">Gia tộc của tôi</a>
+                        }
+                        else
+                        {
+                            <a class="btn btn-large btn-theme btn-rounded" href="#mySignin" data-toggle="modal">Gia tộc của tôi</a>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="content" style="background: #ffd7b5;">
+    <div class="container">
+        <div class="row">
+            <div class="span12">
+                <h4>Quản lý gia phả trực tuyến chỉ trong <strong>3 bước</strong></h4>
+            </div>
+            <div class="span4">
+                <div class="pricing-box-alt">
+                    <div class="pricing-heading">
+                        <h3>Bước <strong>1</strong></h3>
+                    </div>
+                    <div class="pricing-terms">
+                        <h6>Đăng ký tài khoản</h6>
+                    </div>
+                    <div class="pricing-content">
+                        <ul>
+                            <li><i class="icon-ok"></i> Miễn phí</li>
+                            <li><i class="icon-ok"></i> Dễ dàng</li>
+                            <li><i class="icon-ok"></i> Nhanh chóng</li>
+                        </ul>
+                    </div>
+                    <div class="pricing-action">
+                        @if (!CurrentContext.IsLogged() == true)
+                        {
+                            <a href="#mySignup" data-toggle="modal" class="btn btn-medium btn-theme"><i class="icon-bolt"></i> Đăng ký ngay</a>
+                        }
+                        else
+                        {
+                            <a href="#" data-toggle="modal" class="btn btn-medium btn-theme"><i class="icon-bolt"></i> Đăng ký ngay</a>
+                        }
+                    </div>
+                </div>
+            </div>
+            <div class="span4">
+                <div class="pricing-box-alt " style="background:#ff9248">
+                    <div class="pricing-heading" style="background:#ff9248">
+                        <h3>Bước <strong>2</strong></h3>
+                    </div>
+                    <div class="pricing-terms">
+                        <h6>Đăng nhập</h6>
+                    </div>
+                    <div class="pricing-content">
+                        <ul>
+                            <li><i class="icon-ok"></i> Tiện lợi</li>
+                            <li><i class="icon-ok"></i> Lưu trữ</li>
+                            <li><i class="icon-ok"></i> An toàn</li>
+                        </ul>
+                    </div>
+                    <div class="pricing-action">
+                        @if (!CurrentContext.IsLogged() == true)
+                        {
+                            <a href="#mySignin" data-toggle="modal" class="btn btn-medium btn-theme"><i class="icon-bolt"></i> Đăng nhập</a>
+                        }
+                        else
+                        {
+                            <a href="#" data-toggle="modal" class="btn btn-medium btn-theme"><i class="icon-bolt"></i> Đăng nhập</a>
+                        }
+                      </div>
+                </div>
+            </div>
+            <div class="span4">
+                <div class="pricing-box-alt special">
+                    <div class="pricing-heading">
+                        <h3>Bước <strong>3</strong></h3>
+                    </div>
+                    <div class="pricing-terms">
+                        <h6>Tạo gia phả Online</h6>
+                    </div>
+                    <div class="pricing-content">
+                        <ul>
+                            <li><i class="icon-ok"></i> Tạo gia tộc</li>
+                            <li><i class="icon-ok"></i> Quản lý thành viên</li>
+                            <li><i class="icon-ok"></i> Và còn hơn thế</li>
+                        </ul>
+                    </div>
+                    <div class="pricing-action">
+                        <a href="@Url.Action("Index", "CGP")" class="btn btn-medium btn-theme"><i class="icon-bolt"></i> Tạo Gia phả ngay</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- divider -->
+        <div class="row">
+            <div class="span12">
+                <div class="solidline">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

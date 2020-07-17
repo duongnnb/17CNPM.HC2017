@@ -1,0 +1,82 @@
+﻿
+@{
+    ViewBag.Title = "Báo cáo";
+    Layout = "~/Views/Shared/_Layout_2.cshtml";
+}
+<script src="~/assets/Library/jquery.min.js"></script>
+<script src="~/assets/Library/kendo.all.min.js"></script>
+
+<script src="~/assets/Library/Report.js"></script>
+<input id="TreeID" value="@ViewBag.Id" hidden />
+
+
+<section id="content">
+    <div class="container">
+        <div class="row marginbot30">
+            <div class="span12">
+                <div class="row">
+                    <div class="span12" style="width: 1300px;margin-left: -35px;">
+                        <div class="wrapper">
+                            <div class="testimonial" style="background: #ffd7b5;">
+                                <p class="text">
+
+
+                                    <table>
+                                        <tr>
+                                            <td style="width:150px"></td>
+                                            <td style="width:30px"><b>Từ</b></td>
+                                            <td style="width:200px"><input id="FromDate" style="height:35px" data-role="datepicker" data-start="decade" data-depth="decade" data-format="yyyy"/>  </td>
+                                            <td style="width:30px"><b>đến</b></td>
+                                            <td style="width:200px"><input id="ToDate" style="height:35px" data-role="datepicker" data-start="decade" data-depth="decade" data-format="yyyy"/></td>
+                                            <td style="width:190px"><input id="Type" /></td>
+                                            <td style="width:300px"><input type="button" class="btn btn-orange" onclick="XemBaoCao()" value="Xem Báo Cáo" /></td>
+                                        </tr>
+                                        <tr>
+                                            <td colspan="7">
+                                                <h3 id="lable" style="text-align:center;font-weight: bold;letter-spacing:0;padding-top:1em;text-transform: capitalize;"></h3>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            @*<td colspan="7">
+                <h3 style="text-align:center" id="lable"></h3>
+
+
+                    </td>*@
+                                            <td id="tdGridReportNumber" colspan="7">
+                                                <div>
+                                                    @*<h1 style="text-align:center;letter-spacing:0;padding-top:1em;text-transform: capitalize;">Báo Cáo Tăng Giảm Thành Viên</h1>*@
+                                                    <div id="GridReportNumber">
+
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td id="tdGridReportTT" hidden colspan="7">
+                                                @*<h1 style="text-align:center;letter-spacing:0;padding-top:1em;text-transform: capitalize;">Báo Cáo Thành Tích Các Thành Viên</h1>*@
+                                                <div>
+                                                    <div id="GridReportTT">
+
+                                                    </div>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+
+
+                                </p>
+                                @{var NameTree = Session["NameTree"].ToString();}
+                                <div class="author">
+                                    <img src="img/dummies/testimonial-author1.png" class="img-circle bordered" alt="" />
+                                    <p class="name" style="color: blue;font-size: 29px;">
+                                        @NameTree
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,141 @@
+﻿@using CayGiaPha.Models
+@model List<Tree>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout_2.cshtml";
+}
+
+<section id="content" style="background:#fff1e4 ">
+    <div class="container">
+        <div class="row marginbot30">
+            <div class="span12">
+                <h4 class="heading"><strong>Danh sách Gia Tộc</strong></h4>
+                <div class="row">
+                    <div class="span12" style="margin-left: 10px;">
+                        <div class="wrapper">
+                            <div class="testimonial">
+                                <table class="table">
+                                    <thead>
+                                        <tr style="background:#ff9248">
+                                            <th>
+                                                #
+                                            </th>
+                                            <th>
+                                                Gia tộc
+                                            </th>
+                                            <th>
+                                                Ngày tạo
+                                            </th>
+                                            <th>
+                                                Chi tiết
+                                            </th>
+                                        </tr>
+                                    </thead>
+                                    @{
+                                        int stt = 1;
+                                    }
+                                    <tbody>
+
+                                        @foreach (var cim in Model)
+                                        {
+                                            @*<tr class="success">*@
+                                            <tr class="info">
+                                                <td>
+                                                    @stt
+                                                </td>
+                                                <td>
+                                                    @cim.Name
+                                                </td>
+                                                <td>
+                                                    @cim.CreateDate.ToString()
+                                                </td>
+                                                <td>
+                                                    <a style="text-decoration: none;color:#ff6700;font-size: 20px;" href="/CGP/FamilyTree/?id=@cim.TreeID">Xem</a>
+                                                </td>
+                                            </tr>
+                                            stt++;
+                                        }
+
+                                    </tbody>
+                                </table>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<section id="content" style="margin-top:-60px;background:#fff1e4 ">
+    <div class="container">
+        <div class="row marginbot30">
+            <div class="span12">
+                <div class="row">
+                    <div class="span12" style="margin-left: 10px;">
+                        <div class="wrapper">
+                            <div class="testimonial">
+                                <h4 style="margin-left: 18em;"><strong>Tạo gia tộc mới</strong> </h4>
+                                <div action="" method="post" role="form" class="contactForm" style="margin-left: 30em;">
+                                    <div id="sendmessage">Your message has been sent. Thank you!</div>
+                                    <div id="errormessage"></div>
+
+                                    <div class="row">
+                                        <div class="span4 form-group">
+                                            <input type="text" class="form-control" style="background:antiquewhite" id="txtName" name="Name" placeholder="Tên Gia Tộc" data-rule="required" data-msg="Please enter at least 4 chars" />
+                                            <div class="validation"></div>
+                                        </div>
+                                    </div>
+                                    <button id="btnAddtree" name="singlebutton" class="btn btn-large btn-theme btn-rounded" style="margin-top: -3em;margin-left: 9em;">Tạo mới</button>
+
+
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<script>
+    $( document ).ready(function() {
+
+        $("#btnAddtree").click(function () {
+            var treename = $("#txtName").val();
+            if (treename == "") {
+                alert("Không được để trống!!");
+                return;
+            }
+            $.ajax({
+                async: false,
+                type: "post",
+                dataType: 'json',
+                url: '/CGP/AddTree',
+                data: { treename: treename },
+                success: function (response) {
+                    if (response.success) {
+                        alert("Tạo Gia phả thành công.")
+                        setTimeout(function () {
+                            location.reload();
+                        }, 1000);
+                    }
+                    else {
+                        alert("Lỗi!");
+                    }
+                },
+                error: function () {
+                    alert("error!");
+                }
+            });
+        });
+
+
+    });
+</script>
